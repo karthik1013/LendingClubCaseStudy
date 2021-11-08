@@ -1,0 +1,16 @@
+loan_amnt
+funded_amnt
+funded_amnt_inv
+term
+int_rate
+installment
+grade	
+sub_grade
+emp_length
+home_ownership
+annual_inc
+verification_status
+issue_d
+loan_status
+purpose	
+##########
